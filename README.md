@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshalSharma
-- 👀 I’m interested in creating good software.
+- 👀 I’m interested in creating good useful software.
 - 💞️ I’m looking to collaborate on something exciting.
-- 📫 You can reach me through LinkedIn.
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/erharshalsharma/).
 - Interesting repos are private 😉
 
 <!---
