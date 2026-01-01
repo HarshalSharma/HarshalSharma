@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HarshalSharma
 - 👀 I’m interested in creating good useful software.
-- 💞️ I’m looking to collaborate on something exciting.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/erharshalsharma/).
 - Interesting repos are private 😉
 - Recently started sharing some help on [topmate](https://topmate.io/erharshalsharma)
