@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @HarshalSharma
-- 👀 I’m interested in creating good useful software.
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/erharshalsharma/).
-- Interesting repos are private 😉
-- Recently started sharing some help on [topmate](https://topmate.io/erharshalsharma)
+### Hi, I'm Harshal 👋
 
-<!---
-HarshalSharma/HarshalSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I make thoughtful software, and practise living well.
+I document what I build and learn, half-baked parts included, at **[harshalsharma.com](https://harshalsharma.com)**.
+
+- 🍳 The Lab, what's cooking: [harshalsharma.com/lab](https://harshalsharma.com/lab)
+- 🍽️ What's on my plate this month: [harshalsharma.com/now](https://harshalsharma.com/now)
+- Most of my work lives in private repos; the stories live on the site.
